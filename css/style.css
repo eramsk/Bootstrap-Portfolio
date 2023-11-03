@@ -1,0 +1,12 @@
+body {
+    background-color: gainsboro;
+}
+
+.container-fluid {
+    background-color: white;
+}
+
+.navbar-brand {
+    color:black;
+    font-size: large;
+}
