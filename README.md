@@ -14,6 +14,9 @@ the grid card layout is divided into 4 sections using bootstrap code.
 the cards display project screenshots and are titled with a link to the gitHub repository.
 added placeholder link for projects that are still work in progress.
 
+# accordian skills section
+this section contains an accordian layout from bootstrap to display my different skills and a little info about them.
+
 # contact footer
 this contains 5 options for all the different contact and social media pages.
 when clicked a new page opens with the respective website.
