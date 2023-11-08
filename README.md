@@ -20,12 +20,12 @@ when clicked a new page opens with the respective website.
 
 # screenshots of the website:
 
-![screenshot1](../Bootstrap-Portfolio/images/Screenshot1.png))
-![screenshot2](../Bootstrap-Portfolio/images/Screenshot2.png)
-![screenshot3](../Bootstrap-Portfolio/images/Screenshot3.png)
-![screenshot3](../Bootstrap-Portfolio/images/Screenshot4.png)
-![screenshot3](../Bootstrap-Portfolio/images/Screenshot5.png)
-![screenshot3](../Bootstrap-Portfolio/images/Screenshot6.png)
+![screenshot1](images/Screenshot1.png)
+![screenshot2](images/Screenshot2.png)
+![screenshot3](images/Screenshot3.png)
+![screenshot4](images/Screenshot4.png)
+![screenshot5](images/Screenshot5.png)
+![screenshot6](images/Screenshot6.png)
 
 # repository name: eramsk/Bootstrap-Portfolio
 
